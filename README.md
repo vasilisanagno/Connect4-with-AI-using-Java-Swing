@@ -39,4 +39,4 @@ The project is organized as follows:
 
 ## Screenshot from the GUI
 
-
+![Screenshot](readmeImage.png)
