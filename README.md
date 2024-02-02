@@ -36,3 +36,7 @@ The project is organized as follows:
 - Choose your preferred difficulty level - trivial, medium, or hard.
 - Click on the column where you want to drop your token.
 - The AI will make its move, and the game will continue until someone wins or it's a draw.
+
+## Screenshot from the GUI
+
+
