@@ -12,6 +12,7 @@ This Java Swing application allows you to play the classic Connect4 game against
   - [Game History](#game-history)
 - [Project Structure](#project-structure)
 - [How to Play](#how-to-play)
+- [Screenshot from the GUI](#screenshot-from-the-gui)
 
 ## Getting Started
 
@@ -47,3 +48,7 @@ Ensure you have Java installed on your computer. You can download Java from [her
 2. Select your difficulty level – trivial, medium, or hard.
 3. Click on a column to drop your token.
 4. The AI will take its turn, and the game continues until there is a winner or a draw.
+
+## Screenshot from the GUI
+
+![Screenshot](readmeImage.png) make this readme better
