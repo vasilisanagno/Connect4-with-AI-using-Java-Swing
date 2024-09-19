@@ -51,4 +51,4 @@ Ensure you have Java installed on your computer. You can download Java from [her
 
 ## Screenshot from the GUI
 
-![Screenshot](readmeImage.png) make this readme better
+![Screenshot](readmeImage.png)
